@@ -15,13 +15,7 @@
 	<name>veiculos</name>
 	<description>Cadastro de Veiculos</description>
 
-	<distributionManagement>
-		<snapshotRepository>
-			<id>github</id>
-			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/mdnb-boss/yuri-veiculos-api-tests</url>
-		</snapshotRepository>
-	</distributionManagement>
+	
 
 	<properties>
 		<java.version>1.8</java.version>
