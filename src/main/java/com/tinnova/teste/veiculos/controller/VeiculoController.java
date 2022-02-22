@@ -15,6 +15,7 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/veiculos")
+@CrossOrigin(origins = "*")
 public class VeiculoController {
 
     private final VeiculoService service;

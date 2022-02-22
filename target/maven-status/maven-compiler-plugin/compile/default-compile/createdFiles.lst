@@ -1,0 +1,12 @@
+com/tinnova/teste/veiculos/dto/input/VeiculoRequestDto.class
+com/tinnova/teste/veiculos/VeiculosApplication.class
+com/tinnova/teste/veiculos/enums/MarcaType.class
+com/tinnova/teste/veiculos/util/Utils.class
+com/tinnova/teste/veiculos/mapper/VeiculoMapper.class
+com/tinnova/teste/veiculos/controller/VeiculoController.class
+com/tinnova/teste/veiculos/mapper/VeiculoMapperImpl.class
+com/tinnova/teste/veiculos/model/Veiculo.class
+com/tinnova/teste/veiculos/dto/output/VeiculoResponseDto.class
+com/tinnova/teste/veiculos/service/VeiculoService.class
+com/tinnova/teste/veiculos/enums/CorType.class
+com/tinnova/teste/veiculos/repository/VeiculoRepository.class

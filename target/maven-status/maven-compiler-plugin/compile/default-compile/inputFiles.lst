@@ -1,0 +1,11 @@
+/home/yuri/Documentos/testes/APItinnova-backEnd/APItinnova/src/main/java/com/tinnova/teste/veiculos/util/Utils.java
+/home/yuri/Documentos/testes/APItinnova-backEnd/APItinnova/src/main/java/com/tinnova/teste/veiculos/VeiculosApplication.java
+/home/yuri/Documentos/testes/APItinnova-backEnd/APItinnova/src/main/java/com/tinnova/teste/veiculos/repository/VeiculoRepository.java
+/home/yuri/Documentos/testes/APItinnova-backEnd/APItinnova/src/main/java/com/tinnova/teste/veiculos/enums/MarcaType.java
+/home/yuri/Documentos/testes/APItinnova-backEnd/APItinnova/src/main/java/com/tinnova/teste/veiculos/controller/VeiculoController.java
+/home/yuri/Documentos/testes/APItinnova-backEnd/APItinnova/src/main/java/com/tinnova/teste/veiculos/dto/input/VeiculoRequestDto.java
+/home/yuri/Documentos/testes/APItinnova-backEnd/APItinnova/src/main/java/com/tinnova/teste/veiculos/enums/CorType.java
+/home/yuri/Documentos/testes/APItinnova-backEnd/APItinnova/src/main/java/com/tinnova/teste/veiculos/mapper/VeiculoMapper.java
+/home/yuri/Documentos/testes/APItinnova-backEnd/APItinnova/src/main/java/com/tinnova/teste/veiculos/service/VeiculoService.java
+/home/yuri/Documentos/testes/APItinnova-backEnd/APItinnova/src/main/java/com/tinnova/teste/veiculos/dto/output/VeiculoResponseDto.java
+/home/yuri/Documentos/testes/APItinnova-backEnd/APItinnova/src/main/java/com/tinnova/teste/veiculos/model/Veiculo.java
